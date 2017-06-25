@@ -1,0 +1,13 @@
+body {
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#image-div {
+    background-color: white;
+}
+
+#source {
+    font-size: 1.1em;
+}
